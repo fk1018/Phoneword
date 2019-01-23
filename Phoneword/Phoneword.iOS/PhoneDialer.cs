@@ -1,4 +1,4 @@
-using Foundation;
+﻿using Foundation;
 using Phoneword.iOS;
 using UIKit;
 using Xamarin.Forms;

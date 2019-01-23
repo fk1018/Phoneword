@@ -1,4 +1,4 @@
-using Android.Content;
+﻿using Android.Content;
 using Android.Telephony;
 using Phoneword.Droid;
 using System.Linq;
